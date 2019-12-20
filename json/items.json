@@ -16,15 +16,15 @@
     {
         "name": "Project 3",
         "description": "This is where you put description about your projects.",
-        "tech": "React.js, Node.js, Socket.io, CSS/SCSS",
+        "tech": "Placeholder for technologies",
         "image": "images/image1.jpg",
         "link": "https://google.com"
 	},
     {
         "name": "Project 4",
         "description": "This is where you put description about your projects.",
-        "tech": "React.js, Node.js, Socket.io, CSS/SCSS",
-        "image": "images/image1.jpg",
+        "tech": "Placeholder for technologies",
+        "image": "images/image4.jpg",
         "link": "https://google.com"
     },
     {
