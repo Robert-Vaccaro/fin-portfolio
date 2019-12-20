@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Chattin-It-Up",
+        "description": "This application uses Node.js and socket.io to create a real time chat experience that anyone can enjoy. Users can log in with their usernames, which is unique to them and cannot be used by anyone else. There is a Community chat everyone lands into when logged in. Then if anyone is online, they can easily make a private with that person with just a simple click. and for those curious users, you will be able to see everyone online and see when someone leaves the private chat you created.",
+        "tech": "React.js, Node.js, Socket.io, CSS/SCSS",
+        "image": "images/chat-app-main.png",
+        "link": "https://afternoon-dawn-11650.herokuapp.com/"
+	},
+    {
+        "name": "KushKlinic.com",
+        "description": "This is website was create for a weed dispensary that is located in Los Angeles/San Diego Area. It has a custom Content Management System that was created for the owner.",
+        "tech": "Jade, CSS, JavaScript, JQuery, Node.js/Express, MongoDB",
+        "image": "images/kush-image.png",
+        "link": "https://mighty-shelf-00533.herokuapp.com/"
+	},
+    {
+        "name": "Project 3",
+        "description": "This is where you put description about your projects.",
+        "tech": "React.js, Node.js, Socket.io, CSS/SCSS",
+        "image": "images/image1.jpg",
+        "link": "https://google.com"
+	},
+    {
+        "name": "Project 4",
+        "description": "This is where you put description about your projects.",
+        "tech": "React.js, Node.js, Socket.io, CSS/SCSS",
+        "image": "images/image1.jpg",
+        "link": "https://google.com"
+    },
+    {
+        "name": "Game of Thrones Quiz",
+        "description": "Do you love Game of Thrones? Do you like to brag to all your friends about all the random facts you know about the show? Take this interactive Game of Thrones Trivia Quiz that was built to really put your Game of Thrones knowledge to the test! This app was inspired by my love for Game of Thrones and my love for trivia.",
+        "tech": "HTML, CSS, JavaScript and JQuery",
+        "image": "images/got-image.png",
+        "link": "https://robert-vaccaro.github.io/Game-Of-Thrones-Trivia-App/index.html"
+    },
+    {
+        "name": "Emotion Analysis",
+        "description": "This application uses Get and Post requests for two different APIs and displays an analysis based on the keywords fromthe user’s input. It will display percentages of 6 different emotions and the one emotion that has the highest percentage will be sent to the second API to display images of that emotion the user is feeling.",
+        "tech": "HTML, CSS, JavaScript, JQuery",
+        "image": "images/emotion-analysis-main.png",
+        "link": "https://google.com"
+	}
+]
