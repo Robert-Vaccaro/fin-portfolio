@@ -14,20 +14,6 @@
         "link": "https://mighty-shelf-00533.herokuapp.com/"
 	},
     {
-        "name": "Project 3",
-        "description": "This is where you put description about your projects.",
-        "tech": "Placeholder for technologies",
-        "image": "images/image1.jpg",
-        "link": "https://google.com"
-	},
-    {
-        "name": "Project 4",
-        "description": "This is where you put description about your projects.",
-        "tech": "Placeholder for technologies",
-        "image": "images/image4.jpg",
-        "link": "https://google.com"
-    },
-    {
         "name": "Game of Thrones Quiz",
         "description": "Do you love Game of Thrones? Do you like to brag to all your friends about all the random facts you know about the show? Take this interactive Game of Thrones Trivia Quiz that was built to really put your Game of Thrones knowledge to the test! This app was inspired by my love for Game of Thrones and my love for trivia.",
         "tech": "HTML, CSS, JavaScript and JQuery",
