@@ -30,7 +30,7 @@
     {
         "name": "Big Ol' Brews",
         "description": "This application searches through a complete database of all the belgian beers in the world. You will be able look up any beer by the specific type of beer, by specific beer name, and by the brewery that sells it. You will also be able filter the database by alcohol content percentage by using the slide bar at the top of the page.",
-        "tech": "HTML, CSS/Bootstrap, JavaScript, JQuery, Node.js/Express, Socket.io, MongoDB/Mongoose",
+        "tech": "React.js, Node.js/Express, PostgreSQL",
         "image": "images/beer-app-main.png",
         "link": "https://lit-spire-67447.herokuapp.com/"
     },
