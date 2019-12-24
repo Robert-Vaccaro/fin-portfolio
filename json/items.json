@@ -6,7 +6,6 @@
         "image": "images/chat-app-main.png",
         "link": "https://afternoon-dawn-11650.herokuapp.com/"
     },
-    
     {
         "name": "KushKlinic.com",
         "description": "This is website was create for a weed dispensary that is located in Los Angeles/San Diego Area. It has a custom Content Management System that was created for the owner.",
@@ -20,7 +19,21 @@
         "tech": "HTML, CSS/Bootstrap, JavaScript, JQuery, Node.js/Express, Socket.io, MongoDB/Mongoose",
         "image": "images/group-chat-img.png",
         "link": "https://serene-anchorage-46440.herokuapp.com/"
-	},
+    },
+    {
+        "name": "Custom Template Site",
+        "description": "This is a custom template that uses React.js and Node.js/Express to give the viewers a smooth transitional website with clean styling. ",
+        "tech": "React.js, Node.js/Express",
+        "image": "images/port-img.png",
+        "link": "https://morning-stream-10722.herokuapp.com/"
+    },
+    {
+        "name": "Big Ol' Brews",
+        "description": "This application searches through a complete database of all the belgian beers in the world. You will be able look up any beer by the specific type of beer, by specific beer name, and by the brewery that sells it. You will also be able filter the database by alcohol content percentage by using the slide bar at the top of the page.",
+        "tech": "HTML, CSS/Bootstrap, JavaScript, JQuery, Node.js/Express, Socket.io, MongoDB/Mongoose",
+        "image": "images/beer-app-main.png",
+        "link": "https://lit-spire-67447.herokuapp.com/"
+    },
     {
         "name": "Game of Thrones Quiz",
         "description": "Do you love Game of Thrones? Do you like to brag to all your friends about all the random facts you know about the show? Take this interactive Game of Thrones Trivia Quiz that was built to really put your Game of Thrones knowledge to the test! This app was inspired by my love for Game of Thrones and my love for trivia.",
