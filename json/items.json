@@ -14,6 +14,13 @@
         "link": "https://mighty-shelf-00533.herokuapp.com/"
     },
     {
+        "name": "du-all.com (Under Development)",
+        "description": "This is website was create for Du-All Safety, who provides safety services to the public and private sectors in California and throughout the United States. Du-All Safety assists businesses with Federal OSHA, CAL/OSHA, and environmental compliance",
+        "tech": "Jade, CSS, JavaScript, JQuery, Node.js/Express, MongoDB",
+        "image": "images/du-all-image.png",
+        "link": "https://robert-vaccaro.github.io/du-all-safety-site/"
+    },
+    {
         "name": "Custom Group Chat App",
         "description": "This application uses Node.js/Express, Socket.io, and MongoDB/Mongoose to create a real time chat experience for all of its users. There is a special login page when you click the delete button. On this page, only an Admin with a specific password will be able to delete all of the current chat messages. When the admin enters the correct password, it will delete all of the messages that are currently in the database, which will reset the group chat's current messages. The next time the user logs in, all of the messages that occured before delection will disappear.",
         "tech": "HTML, CSS/Bootstrap, JavaScript, JQuery, Node.js/Express, Socket.io, MongoDB/Mongoose",
